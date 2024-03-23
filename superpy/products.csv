@@ -1,0 +1,31 @@
+product_id,product_name,purchase_price,sell_price,stock
+1,Tomato soup,1.89,2.27,87
+2,Mushroom soup,1.99,2.39,100
+3,Pumpkin soup,1.99,2.39,347
+4,Chicken soup,1.89,2.27,7
+5,Potato soup,1.69,2.03,37
+6,Cheddar cheese,2.49,3.36,3
+7,Gouda cheese,2.99,4.04,11
+8,Permesan cheese,1.75,2.36,7
+9,Salami,3.69,5.17,47
+10,Ham,2.99,4.19,17
+11,Roast beef,3.89,5.45,24
+12,Prosciutto,2.5,3.5,47
+13,Milk,1.99,2.29,121
+14,Butter,2.35,2.7,2
+15,Sour cream,1.49,1.71,9
+16,Ice cream,2.2,2.53,12
+17,Candy,3.5,4.73,21
+18,Chocolate,3.6,4.86,3
+19,Marshmallows,0.99,1.34,7
+20,Caramel,1.89,2.55,10
+21,Walnuts,1.1,1.32,26
+22,Cashews,1.05,1.26,117
+23,Hazelnuts,1.29,1.55,15
+24,Peanuts,1.29,1.55,37
+25,Water,0.69,0.86,97
+26,Coffee,1.8,2.25,92
+27,Tea,1.15,1.44,233
+28,Apple juice,1.5,1.88,42
+29,Soda,2.99,3.74,141
+30,Lemonade,2.19,2.74,7

@@ -1,0 +1,12 @@
+product_id,product_name,sell_price,quantity,sell_date
+15,Sour cream,1.71,6,2024-03-02 00:00:00
+27,Tea,1.44,10,2024-03-02 00:00:00
+5,Potato soup,2.03,10,2024-03-05 00:00:00
+2,Mushroom soup,2.39,10,2024-03-10 00:00:00
+16,Ice cream,2.53,5,2024-03-10 00:00:00
+22,Cashews,1.26,20,2024-03-10 00:00:00
+6,Cheddar cheese,3.36,2,2024-03-10 00:00:00
+19,Marshmallows,1.34,3,2024-03-16
+13,Milk,2.29,20,2024-03-16
+22,Cashews,1.26,20,2024-03-16
+23,Hazelnuts,1.55,2,2024-03-16
